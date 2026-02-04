@@ -27,10 +27,14 @@ It includes:
 
 👉 Download link:
 
-🔗
+🔗https://mega.nz/folder/zcVClbbT#9YAbY5Vjj2y76gVI_xEzcA
 
 🧑‍💻 How to Use
 * Copy code from github and paste it in the vscode
 * Then download the required rainbow table from the github and save it in the same directory 
 * finally run the code using the command python password_cracker.py
 
+📜 License
+
+This project is licensed under the MIT License.
+You are free to use, modify, and share it responsibly.
